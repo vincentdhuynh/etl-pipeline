@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cc41ce13-7f80-4a7d-b477-356bc6805aeb)<h1>Set Up an ETL Pipeline with Manual Steps</h1>
+![image](https://github.com/<h1>Set Up an ETL Pipeline with Manual Steps</h1>
 
 Goals - Build a manual ETL process where I  extract data from Excel, transform it in SQL, and load it into a reporting dashboard in Tableau.
 
