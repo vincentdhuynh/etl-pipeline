@@ -2,7 +2,7 @@
 
 Goals - Build a manual ETL process where I  extract data from Excel, transform it in SQL, and load it into a reporting dashboard in Tableau.
 
-This dataset reepresents salaries gathered through an online survey and is continuously growing as new users submit their salary information. 
+This dataset represents salaries gathered through an online survey and is continuously growing as new users submit their salary information. 
 Datasource: [https://oscarbaruffa.com/messy/](https://docs.google.com/spreadsheets/d/1IPS5dBSGtwYVbjsfbaMCYIWnOuRmJcbequohNxCyGVw/edit?resourcekey#gid=1625408792)
 
 # of rows (Begin): 11,588
